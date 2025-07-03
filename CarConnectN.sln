@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConnectApp", "CarConnectApp.csproj", "{5A524047-BE64-4CC6-95AF-BF1974CE8627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConnect.Tests", "..\CarConnect.Tests\CarConnect.Tests.csproj", "{0BDA91A4-9F54-498A-B683-5F9E6E6A0910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A524047-BE64-4CC6-95AF-BF1974CE8627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A524047-BE64-4CC6-95AF-BF1974CE8627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A524047-BE64-4CC6-95AF-BF1974CE8627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A524047-BE64-4CC6-95AF-BF1974CE8627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDA91A4-9F54-498A-B683-5F9E6E6A0910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDA91A4-9F54-498A-B683-5F9E6E6A0910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDA91A4-9F54-498A-B683-5F9E6E6A0910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDA91A4-9F54-498A-B683-5F9E6E6A0910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B2887CD-8F6E-4E68-989F-8C2F8074BFA0}
+	EndGlobalSection
+EndGlobal
